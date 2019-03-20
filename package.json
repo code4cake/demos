@@ -1,5 +1,15 @@
 {
   "devDependencies": {
     "mdx-deck": "^2.0.0"
+  },
+  "name": "demos",
+  "version": "1.0.0",
+  "main": "deck.mdx",
+  "repository": "https://github.com/dantesolis/demos.git",
+  "author": "<dantevs@icloud.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
   }
 }
