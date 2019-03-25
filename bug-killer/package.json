@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "mdx-deck": "^2.0.0"
+    "mdx-deck": "^2.0.5"
   },
   "name": "demos",
   "version": "1.0.0",
