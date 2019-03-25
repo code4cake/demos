@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "author": "DS",
+  "email": "",
+  "keywords": [
+    "deck",
+    "react",
+    "coding",
+    "presentation",
+    "markdown"
+  ],
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "presenter": "mdx-deck presenter deck.mdx",
+    "build": "mdx-deck build deck.mdx",
+    "pdf": "mdx-deck pdf deck.mdx"
+  },
+  "devDependencies": {
+    "mdx-deck": "^2.0.5"
+  }
+}
